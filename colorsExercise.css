@@ -1,0 +1,39 @@
+h1  {
+    color: violet;
+    background-color: red;
+}
+h2 {
+    color: #4b0082;
+    background-color: orange;
+}
+h3 {
+    color:#00f;
+    background-color: yellow;
+}
+h4 {
+    color: #00880050;
+    background-color: green;
+}
+h5 {
+    color: #ff05;
+    background-color: blue;
+}
+h6 {
+    color: rgb(255, 165, 0);
+    background-color: indigo;
+}
+p {
+    color: rgba(255, 0, 0, 0.5);
+    background-color: violet;
+}
+ol span1 {
+    color: hotpink;
+}
+ol span2 {
+    color: peachpuff;
+}
+ol div {
+    border-style: solid;
+    border-width: 5px;
+    border-color: green;
+}
