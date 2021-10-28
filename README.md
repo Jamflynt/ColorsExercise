@@ -3,15 +3,16 @@
 
 1. Link the HTML and CSS files together (HINT: This is done in the HTML file)
 2. Set the title in the HTML file to “CSS Colors Exercise”
-3. Create the following elements in the body section of your html file...
-4. Create an h1 with the text of “Somewhere”
-5. Create an h2 with the text of “Over” <br>
-  5a. Create an h3 with the text of “The”
-  5b. Create an h4 with the text of “Rainbow”
-Create an h5 with the text of “Way”
-Create an h6 with the text of “Up”
-Create an p with the text of “High”
-In your css file, create styles using the “color” (AKA Text Color) property for each element. Use all 6 ways to write a color (color name, hexadecimal, hexadecimal shorthand, hexadecimal with transparency, RGB, & RGBA). You can pick the colors.
+3. Create the following elements in the body section of your html file... <br>
+  a. Create an h1 with the text of “Somewhere” <br>
+  b. Create an h2 with the text of “Over” <br>
+  c. Create an h3 with the text of “The” <br>
+  d. Create an h4 with the text of “Rainbow” <br>
+  e. Create an h5 with the text of “Way” <br>
+  f. Create an h6 with the text of “Up” <br>
+  g. Create an p with the text of “High” <br>
+4. In your css file, create styles using the “color” (AKA Text Color) property for each element. Use all 6 ways to write a color (color name, hexadecimal, hexadecimal shorthand, hexadecimal with transparency, RGB, & RGBA). You can pick the colors. <br>
+
 Bonuses (No inline styling allowed)
 Use the seven colors of the rainbow to create a background for each element (Ex: h1 will have a red background, h2 will have an orange background, etc.)
 Create an ordered list below the p element that has 3 list items in it. For the text/content of each list item just type out the item number. (Ex: First item will be “One”. Second item will be “Two”, etc.)
