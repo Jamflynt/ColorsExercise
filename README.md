@@ -5,7 +5,7 @@
 2. Set the title in the HTML file to “CSS Colors Exercise”
 3. Create the following elements in the body section of your html file...
 4. Create an h1 with the text of “Somewhere”
-5. Create an h2 with the text of “Over”
+5. Create an h2 with the text of “Over” <br>
   5a. Create an h3 with the text of “The”
   5b. Create an h4 with the text of “Rainbow”
 Create an h5 with the text of “Way”
