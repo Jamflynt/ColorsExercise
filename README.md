@@ -13,9 +13,9 @@
   g. Create an p with the text of “High” <br>
 4. In your css file, create styles using the “color” (AKA Text Color) property for each element. Use all 6 ways to write a color (color name, hexadecimal, hexadecimal shorthand, hexadecimal with transparency, RGB, & RGBA). You can pick the colors. <br>
 
-Bonuses (No inline styling allowed)
-Use the seven colors of the rainbow to create a background for each element (Ex: h1 will have a red background, h2 will have an orange background, etc.)
-Create an ordered list below the p element that has 3 list items in it. For the text/content of each list item just type out the item number. (Ex: First item will be “One”. Second item will be “Two”, etc.)
-Add a style to make ONLY the first list item have a “hot pink” text color
-Add another style to make ONLY the third/last list item have a “peachpuff” background color
-Using a single selector in your css file (Example of a selector is: h1), give the first and third LIs (AKA List items) a border that is five pixels wide, solid (Not dashed or dotted), and green.
+Bonuses (No inline styling allowed) <br>
+1. Use the seven colors of the rainbow to create a background for each element (Ex: h1 will have a red background, h2 will have an orange background, etc.) <br>
+2. Create an ordered list below the p element that has 3 list items in it. For the text/content of each list item just type out the item number. (Ex: First item will be “One”. Second item will be “Two”, etc.)<br>
+3. Add a style to make ONLY the first list item have a “hot pink” text color <br>
+4. Add another style to make ONLY the third/last list item have a “peachpuff” background color <br>
+5. Using a single selector in your css file (Example of a selector is: h1), give the first and third LIs (AKA List items) a border that is five pixels wide, solid (Not dashed or dotted), and green.
